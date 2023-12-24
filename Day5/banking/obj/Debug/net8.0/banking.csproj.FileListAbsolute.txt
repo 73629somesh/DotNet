@@ -1,0 +1,11 @@
+D:\CDAC\DotNet\My_Codes\Day5\banking\obj\Debug\net8.0\banking.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\DotNet\My_Codes\Day5\banking\obj\Debug\net8.0\banking.AssemblyInfoInputs.cache
+D:\CDAC\DotNet\My_Codes\Day5\banking\obj\Debug\net8.0\banking.AssemblyInfo.cs
+D:\CDAC\DotNet\My_Codes\Day5\banking\obj\Debug\net8.0\banking.csproj.CoreCompileInputs.cache
+D:\CDAC\DotNet\My_Codes\Day5\banking\bin\Debug\net8.0\banking.deps.json
+D:\CDAC\DotNet\My_Codes\Day5\banking\bin\Debug\net8.0\banking.dll
+D:\CDAC\DotNet\My_Codes\Day5\banking\bin\Debug\net8.0\banking.pdb
+D:\CDAC\DotNet\My_Codes\Day5\banking\obj\Debug\net8.0\banking.dll
+D:\CDAC\DotNet\My_Codes\Day5\banking\obj\Debug\net8.0\refint\banking.dll
+D:\CDAC\DotNet\My_Codes\Day5\banking\obj\Debug\net8.0\banking.pdb
+D:\CDAC\DotNet\My_Codes\Day5\banking\obj\Debug\net8.0\ref\banking.dll

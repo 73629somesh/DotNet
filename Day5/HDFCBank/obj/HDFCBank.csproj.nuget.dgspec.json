@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CDAC\\DotNet\\My_Codes\\Day5\\HDFCBank\\HDFCBank.csproj": {}
+  },
+  "projects": {
+    "D:\\CDAC\\DotNet\\My_Codes\\Day5\\banking\\banking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CDAC\\DotNet\\My_Codes\\Day5\\banking\\banking.csproj",
+        "projectName": "banking",
+        "projectPath": "D:\\CDAC\\DotNet\\My_Codes\\Day5\\banking\\banking.csproj",
+        "packagesPath": "C:\\Users\\Somesh\\.nuget\\packages\\",
+        "outputPath": "D:\\CDAC\\DotNet\\My_Codes\\Day5\\banking\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Somesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CDAC\\DotNet\\My_Codes\\Day5\\HDFCBank\\HDFCBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CDAC\\DotNet\\My_Codes\\Day5\\HDFCBank\\HDFCBank.csproj",
+        "projectName": "HDFCBank",
+        "projectPath": "D:\\CDAC\\DotNet\\My_Codes\\Day5\\HDFCBank\\HDFCBank.csproj",
+        "packagesPath": "C:\\Users\\Somesh\\.nuget\\packages\\",
+        "outputPath": "D:\\CDAC\\DotNet\\My_Codes\\Day5\\HDFCBank\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Somesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\CDAC\\DotNet\\My_Codes\\Day5\\banking\\banking.csproj": {
+                "projectPath": "D:\\CDAC\\DotNet\\My_Codes\\Day5\\banking\\banking.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
