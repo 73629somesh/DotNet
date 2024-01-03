@@ -1,0 +1,7 @@
+D:\CDAC\DotNet\My_Codes\MyCRUD\MyCrud\obj\Debug\net8.0\MyCrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\DotNet\My_Codes\MyCRUD\MyCrud\obj\Debug\net8.0\MyCrud.AssemblyInfoInputs.cache
+D:\CDAC\DotNet\My_Codes\MyCRUD\MyCrud\obj\Debug\net8.0\MyCrud.AssemblyInfo.cs
+D:\CDAC\DotNet\My_Codes\MyCRUD\MyCrud\obj\Debug\net8.0\MyCrud.csproj.CoreCompileInputs.cache
+D:\CDAC\DotNet\My_Codes\MyCRUD\MyCrud\obj\Debug\net8.0\MyCrud.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAC\DotNet\My_Codes\MyCRUD\MyCrud\obj\Debug\net8.0\MyCrud.RazorAssemblyInfo.cache
+D:\CDAC\DotNet\My_Codes\MyCRUD\MyCrud\obj\Debug\net8.0\MyCrud.RazorAssemblyInfo.cs

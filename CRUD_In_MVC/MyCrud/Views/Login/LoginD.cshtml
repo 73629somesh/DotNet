@@ -1,0 +1,21 @@
+@using System.Collections.Generic;
+@using BOL;
+
+@{
+    ViewData["Title"]="This are the Products";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@{
+     List<Login> list=ViewData["Products"] as List<Login>;
+
+    foreach(Login log in list){
+        <p>@log.Id  @Log.Name</p>
+        }
+
+}
+
+   
+        
+    

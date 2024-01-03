@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BOL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BOL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BOL.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BOL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "BOL/1.0.0": {
+      "type": "project",
+      "path": "../BOL/BOL.csproj",
+      "msbuildProject": "../BOL/BOL.csproj"
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BOL >= 1.0.0",
+      "DAL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Somesh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\CDAC\\DotNet\\My_Codes\\MyCRUD\\BLL\\BLL.csproj",
+      "projectName": "BLL",
+      "projectPath": "D:\\CDAC\\DotNet\\My_Codes\\MyCRUD\\BLL\\BLL.csproj",
+      "packagesPath": "C:\\Users\\Somesh\\.nuget\\packages\\",
+      "outputPath": "D:\\CDAC\\DotNet\\My_Codes\\MyCRUD\\BLL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Somesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\CDAC\\DotNet\\My_Codes\\MyCRUD\\BOL\\BOL.csproj": {
+              "projectPath": "D:\\CDAC\\DotNet\\My_Codes\\MyCRUD\\BOL\\BOL.csproj"
+            },
+            "D:\\CDAC\\DotNet\\My_Codes\\MyCRUD\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\CDAC\\DotNet\\My_Codes\\MyCRUD\\DAL\\DAL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
